@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  webpage-server-02:
+  - apiVersion: v2
+    appVersion: v2
+    created: "2025-08-19T14:12:56.535342+03:00"
+    description: A Helm chart for Web Page Color Application
+    digest: 0420eabce5d66b33df30f501555657e49a8e94450f1c3242c473c8a8a2b4488d
+    name: webpage-server-02
+    type: application
+    urls:
+    - https://alexkonkin.github.io/helm/webpage-server-02-0.1.1.tgz
+    version: 0.1.1
+generated: "2025-08-19T14:12:56.534762+03:00"
